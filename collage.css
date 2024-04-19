@@ -128,6 +128,17 @@
     text-decoration-line: none;
 }
 
+.welcome{
+    position: relative;
+    /* border: 1px solid red; */
+    height: 70px;
+    width: 900px;
+    float: right;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-size: 42px;
+    text-align: center;
+}
+
 .anchor{
     text-decoration: none;
     color: rgb(186, 136, 74) ;
@@ -220,17 +231,66 @@
 
 .register{
     width: 500px;
-    height: 350px;
+    height: 450px;
     /* border: 1px solid black; */
     float: left;
     background-color: rgb(186, 136, 74);
     border-radius: 7px;
+    float: left;
+    margin-left: 250px;
+    margin-top: 15px;
 }
 
+.register form .button{
+    background-color:black;
+    color: azure;
+    padding: 10px 20px;
+ }
+ 
+ .register form .button:hover{
+    background-color:brown;
+    color: black;
+    padding: 10px 30px;
+ }
+
+.login{
+    width: 500px;
+    height: 450px;
+    /* border: 1px solid black; */
+    float: left;
+    background-color: rgb(186, 136, 74);
+    border-radius: 7px;
+    float: right;
+    margin-right: 250px;
+    margin-top: 15px;
+    /* color: brown; */
+}
+
+.login form .button{
+   background-color:black;
+   color: azure;
+   padding: 10px 20px;
+}
+
+.login form .button:hover{
+    background-color:brown;
+    color: black;
+    padding: 10px 30px;
+ }
+
 .form_reg{
-    margin-top: 25px;
+    margin-top: 7px;
 }
 
 input{
     background-color: rgb(186, 136, 74);
+}
+
+.reg_box1{
+    height: 52px;
+    width: 300px;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
