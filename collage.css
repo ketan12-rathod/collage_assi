@@ -1,0 +1,236 @@
+.box1{
+    margin-top:0;
+    margin-left:0;
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 1517px;
+    margin-left: -8px;
+}
+
+.icon{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 15px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 50px;
+    background-color: rgb(186, 136, 74);
+}
+
+.home{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 100px;
+    float: left;
+    margin-top: 35px;
+    /* margin-left: 5px; */
+    text-align: center;
+    font-family: cursive;
+    color: rgb(186, 136, 74);
+}
+
+.profile{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 100px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 500px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.profile :hover{
+    color: rgb(186, 136, 74);
+}
+
+.lecture{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 100px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.lecture :hover{
+    color: rgb(186, 136, 74);
+}
+
+.support{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 100px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.support :hover{
+    color: rgb(186, 136, 74);
+}
+
+.about{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 100px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.about :hover{
+    color: rgb(186, 136, 74);
+}
+
+.logout{
+    /* border: 1px solid red; */
+    height: 30px;
+    width: 100px;
+    float: left;
+    /* clear: both; */
+    margin-top: 35px;
+    margin-left: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.logout :hover{
+    color: rgb(186, 136, 74);
+}
+
+.bgpage{
+    /* border: 1px solid red; */
+    width: 1517px;
+    height: 630px;
+    margin-left: -8px;
+    position: absolute;
+}
+
+.start{
+    position: relative;
+    /* border: 1px solid red; */
+    background-color: rgb(242, 197, 113);
+    border-radius: 7px;
+    text-align: center;
+    color: chocolate;
+    width: 200px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 300px;
+    font-family: cursive;
+    text-decoration-line: none;
+}
+
+.anchor{
+    text-decoration: none;
+    color: rgb(186, 136, 74) ;
+}
+
+.anchor2{
+    text-decoration: none;
+    color: black ;
+}
+
+.anchor3{
+    text-decoration: none;
+    color: rgb(173, 100, 44);
+    text-overflow: initial;
+
+}
+
+.anchor3 :hover{
+    color: rgb(255, 174, 0);
+}
+
+.box2{
+    /* border: 1px solid red; */
+    height: 630px;
+    width: 1517px;
+    margin-left: -8px;
+}
+
+.lec{
+    /* border: 1px solid blue; */
+    height: 590px;
+    width: 1400px;
+    margin: 0 auto;
+    /* margin-top: 20px; */
+}
+.lec1{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 200px;
+    margin-right: 64px;
+    float: left;
+}
+
+.lec3{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 200px;
+    margin-right: 64px;
+    float: left;
+    margin-top: 50px;
+}
+
+.lec2{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 200px;
+    /* margin-right: 50px; */
+    float: left;
+}
+
+.lec4{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    float: left;
+}
+
+.description{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 70px;
+    margin-right: 64px;
+    /* margin-top: 5px; */
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    text-align: center;
+}
+
+.description2{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    float: left;
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.register{
+    width: 500px;
+    height: 350px;
+    /* border: 1px solid black; */
+    float: left;
+    background-color: rgb(186, 136, 74);
+    border-radius: 7px;
+}
+
+.form_reg{
+    margin-top: 25px;
+}
+
+input{
+    background-color: rgb(186, 136, 74);
+}
